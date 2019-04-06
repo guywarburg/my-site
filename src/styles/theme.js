@@ -1,0 +1,15 @@
+export const theme = {
+  background: "#011627",
+  backgroundHover: "#0b2942",
+  active: "#011627",
+  primary: "hsl(262, 47%, 55%)",
+  primaryHover: "hsl(262, 47%, 65%)",
+  accent: "#3aa2f8",
+  accentHover: "#84c5fb",
+  disabled: "#637777",
+  secondary: "hsl(35, 71%, 74%)",
+  secondaryHover: "hsl(35, 71%, 84%)",
+  title: "#82AAFF",
+  other: "#addb67",
+  white: "#fff",
+}

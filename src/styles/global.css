@@ -1,0 +1,8 @@
+html {
+  margin: 0;
+  padding: 0;
+  min-height: 100vh;
+  font-family: Menlo, Monaco, "Courier New", monospace;
+  color: hsl(35, 71%, 74%);
+  background: #011627;
+}
