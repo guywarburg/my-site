@@ -4,7 +4,7 @@ import Layout from "../styles/Layout"
 
 import "../styles/global.css"
 
-import hammock from "../../public/Group 1.png"
+import hammock from "../../static/Group 1.png"
 
 const StyledHomePage = styled.div`
   margin-top: 5rem;
