@@ -37,7 +37,7 @@ export default () => (
           but I hope to post some stuff real soon.
         </StyledBodyText>
       </div>
-      <img src={hammock} />
+      <img src={hammock} alt="A sketch of a hammock" />
     </StyledHomePage>
   </Layout>
 )

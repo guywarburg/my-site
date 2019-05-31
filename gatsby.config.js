@@ -1,3 +1,10 @@
 module.exports = {
-  plugins: [`gatsby-plugin-styled-components`],
+  plugins: [
+    {
+      resolve: `gatsby-plugin-styled-components`,
+      options: {
+        // Add any options here
+      },
+    },
+  ],
 }
